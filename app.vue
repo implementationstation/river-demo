@@ -2,6 +2,7 @@
   <v-app>
     <v-main>
       <v-container class="py-16">
+<h2>Helaaaair Cunt!</h2>
         <h1 class="text-h2 font-weight-bold mb-4">
           Truckee River Adventures
         </h1>
